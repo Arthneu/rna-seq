@@ -2,7 +2,7 @@
 my first time to create an rna-seq protocal
 software preparation (conda install: hisat2, samtools install with R: ballgown
 step1: download SRA date
-$ wget -c http://
+**** wget -c http://
 step2: download teh genome file and annotation file 
 $ wget -c https://
 step3: download genome index  E.g. human
